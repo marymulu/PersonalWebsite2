@@ -1,0 +1,48 @@
+h1 {
+  text-align: center;
+  color: red;
+  font-size: 50px;
+}
+
+#mypicture {
+  border-radius: 50%;
+  width: 400px;
+  height: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+/* #flag {
+    width: 250px;
+  }
+  figure {
+    width: 250px;
+  }
+  figcaption {
+    background-color: #222;
+    color: #fff;
+    font: italic smaller sans-serif;
+    padding: 3px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+  } */
+#flag {
+  width: 250px;
+}
+figure {
+  display: inline-block;
+  position: relative;
+  width: auto;
+}
+
+figcaption {
+  width: 100%;
+}
+body {
+  font-family: "Times New Roman", Times, serif;
+  line-height: 2;
+  color: rgb(0, 8, 255);
+  font-size: medium;
+  background-color: lightgrey;
+}
